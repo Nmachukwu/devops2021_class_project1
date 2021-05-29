@@ -1,2 +1,13 @@
-# devops2021_class_project1
-A replica of class work in preparation for 2/29/2021
+# Simple DevOps Project
+
+This Repository is a collection of Implementation documents. 
+
+### Purpose:
+By following this repository you can able to setup a DevOps CI/CD Pipeline using
+- git
+- Jenkins
+- Mavine
+- Ansible
+- Docker &
+- Kubernetes
+
